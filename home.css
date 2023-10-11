@@ -1,0 +1,30 @@
+nav {
+    background-color: #333;
+    display: flex; /* Usa flexbox para alinear la imagen y los enlaces horizontalmente */
+    align-items: center; /* Centra verticalmente los elementos dentro del nav */
+}
+#logo {
+    margin-right: 20px; /* Espacio entre la imagen y los enlaces */
+    height: 100%;
+    max-width: 100px; /* Establece un ancho máximo para la imagen */
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+
+
+
