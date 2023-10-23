@@ -1,0 +1,18 @@
+.contenedor_imagen {
+    display: block;
+    
+}
+
+.imagen-fondo {
+    width: 100%; /* Ajusta el ancho según tus necesidades */
+    height: auto; /* Ajusta la altura según tus necesidades */
+}
+
+.imagen-superpuesta {
+    position: absolute;
+    top: 5;
+    left: 5;
+    /* Ajusta las coordenadas top y left según tus necesidades */
+    opacity: 0.5; /* Cambia la opacidad según tus preferencias */
+    /* Puedes aplicar transformaciones, como escala o rotación, según tus necesidades */
+}

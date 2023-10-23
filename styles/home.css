@@ -1,0 +1,149 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+p{
+  margin-left: 35%;
+}
+ul{
+    display:inline-flex;
+    list-style: none;
+
+    
+    
+}
+ul li {
+    margin-right: 5%;
+    margin-top: 8%;
+    
+    
+}
+
+header{
+    
+    display: flex;
+   justify-content:space-between ;
+   background-color: #207cdd;
+   max-width: 100%;
+}
+.divnavegacion{
+    
+    display: flex;
+   margin-top: 0.5%;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navegacion{
+    
+    
+   margin-top: 10%;
+    
+   
+}
+
+
+.search_lupa{
+    margin-top: 1%;
+    margin-left: 10%;
+}
+
+body{
+    color: rgb(5, 5, 5);
+}
+input{
+     width: 50%;
+     height: 10%;
+    
+}
+
+
+
+.carousel-container {
+    width: 100%;
+    overflow: hidden;
+}
+
+.carousel-slide {
+    display: flex;
+    transition: transform 0.5s ease;
+}
+
+.carousel-image {
+    width: 200%;
+    height: 100%;
+}
+
+.carousel-button {
+    cursor: pointer;
+}
+.imagenlogoheader{
+  margin-left: 15%;
+}
+.imagenlogofooter{
+  margin-right: 10%;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 90%;
+    margin-left: 5%;
+    height: 9%;
+    
+   
+  }
+
+  
+  
+  td {
+    border: 1px solid #b6afaf;
+  }
+  td:hover{
+    background-color: rgb(143, 206, 25);
+  }
+  tr{
+    height: 200px;
+    
+  }
+  
+  
+  .imagentabla {
+    width: 250px;
+    height: 250px;
+    margin-left: 20%;
+    margin-right: 30%;
+    
+    
+  }
+  .pie_pagina {
+display: flex ;
+justify-content: space-between;
+color:white;
+font-size: 30px;
+
+  }
+
+  .Y_C{
+    color:white;
+    margin-top: 1%;
+  }
+  footer{
+    background-color: #0d51db;
+   
+   
+    margin: 0%;
+  }
+  .parrafo{
+    color:white;
+    margin-top: 1%;
+  }
+ .contacto{
+  
+  margin-top: 1%;
+ }
+
+ .logo_footer{
+  margin-top: 1%;
+
+  
+ }
